@@ -1,16 +1,17 @@
-## Hi there 👋
+# hi, i'm eryn 👋
 
-<!--
-**ecummi16/ecummi16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Eryn Cummings**, a senior at **Arizona State University** studying **Graphic Design**.
 
-Here are some ideas to get you started:
+I’m interested in the space where design and code overlap, especially UI/UX, web design, creative coding, branding, and building digital experiences that actually look nice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### currently working with
+- HTML / CSS / JavaScript
+- Figma & Adobe Creative Suite
+- UI/UX + responsive web design
+- Creative coding & interactive design
+- Git / GitHub
+
+Mostly using this space for class projects, experiments, and things I probably redesigned three times before committing.
+
+📍 Arizona  
+🎓 ASU — Graphic Design
